@@ -48,6 +48,7 @@ React-scripts - scripts and configuration used by Create React App
 
 ## Instructions
 Run the following:
+
 `npm i`
 
 `npm run start`
@@ -57,3 +58,5 @@ Run the following:
 `npm run develop`
 
 ## Screenshot
+![image](https://user-images.githubusercontent.com/104175474/197257095-56a49a88-b644-4d91-bf3f-f0e0b681d7bd.png)
+
